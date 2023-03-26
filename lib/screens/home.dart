@@ -42,7 +42,7 @@ class _HomeState extends State<Home> {
                         child: Text(
                           "Tất cả công việc",
                           style: TextStyle(
-                            fontSize: 25,
+                            fontSize: 24,
                             fontWeight: FontWeight.bold,
                           ),
                         ),
